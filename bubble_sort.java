@@ -9,7 +9,7 @@ public class bubble_sort {
                 }
             }
         }
-    }
+     }
     public static void main(String[] args) {
         int[] arr = {10, 99, 12, 13, 45, 32, 1, 2, 3};
         bubble_sort(arr);
