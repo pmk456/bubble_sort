@@ -11,7 +11,7 @@ void bubble_sort(int arr[], int size){
             }
         }
     }
-}
+ }
 int main(){
     int lst[] = {10, 99, 12, 13, 45, 32};
     int max = sizeof(lst) / sizeof(lst[0]) - 1; 
